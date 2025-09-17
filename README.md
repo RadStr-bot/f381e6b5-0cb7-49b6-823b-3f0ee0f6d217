@@ -1,2 +1,5 @@
-# f381e6b5-0cb7-49b6-823b-3f0ee0f6d217
-Auto-generated repository to test Dataspecer connection
+# This repository is connected to [Dataspecer online tool](http://localhost:5174)
+
+It has associated publication repository, which can be found at the following [link](https://github.com/RadStr-bot/f381e6b5-0cb7-49b6-823b-3f0ee0f6d217-publication-repo).
+
+The publication repository contains generated artifacts and specifications.
